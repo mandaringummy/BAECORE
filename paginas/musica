@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+        <head>
+            <body>
+                <ul class="menu-links">
+                    <h1>musica</h1>
+
+        <li><a class="active" href="#">Inicio</a></li>
+
+        <li><a href="#">informacion</a></li>
+
+        <li><a href="#">musica</a></li>
+
+        <li><a href="#">poemas</a></li>
+
+        <li><a href="#">galeria</a></li>
+
+    </ul>
+    <p>musica uwu</p>
+            </body>
+        </head>
+    </html>

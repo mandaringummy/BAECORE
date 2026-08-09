@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+
+#menuss {
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.menu ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu li {
+    border-right: 2px solid rgb(255, 255, 255);
+    display: inline-block;
+}
+
+.menu li a:hover {
+    background-color: rgb(255, 255, 255);
+}
+.menu li a{
+    display: block;
+    padding: 15px 30px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
